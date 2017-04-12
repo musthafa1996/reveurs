@@ -111,12 +111,12 @@ $(document).ready(function() {
     /*==========================================
        LOAD FULL SCREEN IMAGE (requires: backstretch.min.js)
     =====================================================*/
-    
+    /*
     var homeBg = document.querySelector('.home-bg');
     if (homeBg) {       
         $('.home-bg').backstretch("assets/img/bg/1.jpg");     
     }
-    
+    */
 
 
     /*==========================================
