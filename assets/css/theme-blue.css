@@ -2642,7 +2642,7 @@ nav.nav-opacity ul.dl-menu li a::before {
   margin: 1px;
   padding: 15px 20px;
   font-style: italic;
-  border: 1px solid #f7f8fa;
+  
 }
 .testimonials .item p:after {
   width: 0;
@@ -2710,12 +2710,12 @@ nav.nav-opacity ul.dl-menu li a::before {
 .testimonials-bg-gray-light .item p,
 .testimonials-bg-gray-light .testimonials-owl-nav .owl-prev:before,
 .testimonials-bg-gray-light .testimonials-owl-nav .owl-next:before {
-  background: #f7f8fa;
-  border-color: #f7f8fa;
+  background:#ccc;
+  
   color: #444;
 }
 .testimonials.testimonials-bg-gray-light .item p:after {
-  border-top-color: #f7f8fa;
+  border-top-color: #ccc;
 }
 /*  colors gray */
 .testimonials-bg-gray .item p,
