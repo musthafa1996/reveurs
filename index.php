@@ -40,7 +40,7 @@
         <nav>
             <!-- Logo -->
             <div class="logo-box">
-                <a href="index.html" class="logo logo-img">
+                <a href="index.php" class="logo logo-img">
                     <img src="assets/img/logo-black.png" class="img-responsive" alt="euforia">
                 </a>
             </div>
@@ -52,12 +52,12 @@
             <div class="menu-box my-scrollbar">
                 <div id="dl-menu" class="dl-menuwrapper">
                     <ul class="dl-menu dl-menuopen">
-                        <li><a class="page-link" href="index.html#home" data-hover="home">home</a></li>  
-                        <li><a class="page-link" href="index.html#about" data-hover="about us">about us</a></li> 
-                        <li><a class="page-link" href="index.html#services" data-hover="services">services</a></li>
-                        <li><a class="page-link" href="index.html#portfolio" data-hover="portfolio">portfolio</a></li>
+                        <li><a class="page-link" href="index.php#home" data-hover="home">home</a></li>  
+                        <li><a class="page-link" href="index.php#about" data-hover="about us">about us</a></li> 
+                        <li><a class="page-link" href="index.php#services" data-hover="services">services</a></li>
+                        <li><a class="page-link" href="index.php#portfolio" data-hover="portfolio">portfolio</a></li>
                         
-                        <li><a class="page-link" href="index.html#contact" data-hover="contact">contact</a></li>
+                        <li><a class="page-link" href="index.php#contact" data-hover="contact">contact</a></li>
                         <!-- submenu / extra -->
                         <!--<li class="submenu"><a href="#" data-hover="extra">extra</a>
                             <ul class="sub-menu">
@@ -125,7 +125,7 @@
                     <li><a href="#" target="_blank" class="fa fa-linkedin"><i class="fa fa-linkedin color-default"></i></a></li> 
                     <li><a href="#" target="_blank" class="fa fa-dribbble"><i class="fa fa-dribbble color-default"></i></a></li>
                 </ul>   
-                <div class="copyright">&copy; 2017 <a href="index.html">Reveurs</a>.</div>
+                <div class="copyright">&copy; 2017 <a href="index.php">Reveurs</a>.</div>
             </footer>       
         </nav>
         <!-- end: NAVIGATION -->   
