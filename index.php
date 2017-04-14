@@ -132,6 +132,7 @@
         
         
         <!-- PAGE-WRAPPER -->
+        <section class="wrapper">
         <div class="page-wrapper">
             
 
@@ -1272,6 +1273,7 @@
                        
             
         </div>
+        </section>
         <!-- end: PAGE-WRAPPER -->
         
         

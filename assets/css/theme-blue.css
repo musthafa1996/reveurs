@@ -1487,7 +1487,7 @@ nav.nav-opacity ul.dl-menu li a::before {
   height: 100%;
   overflow: hidden;
 }
-.page-wrapper > section .content.scroll-auto {
+.wrapper:hover .page-wrapper > section .content.scroll-auto {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
