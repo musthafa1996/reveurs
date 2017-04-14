@@ -1488,7 +1488,7 @@ nav.nav-opacity ul.dl-menu li a::before {
   overflow: hidden;
 }
 .wrapper:hover .page-wrapper > section .content.scroll-auto {
-  overflow-y: auto;
+  overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
 .page-wrapper > section .content.table {
