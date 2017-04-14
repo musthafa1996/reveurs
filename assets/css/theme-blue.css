@@ -2839,7 +2839,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 }
 @media (min-width: 768px) {
   .timeline .timeline-item .tl-date span:last-child {
-    color: #333;
+    color: #fff;
     font-size: 24px;
     letter-spacing: 1px;
   }
