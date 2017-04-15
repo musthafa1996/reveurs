@@ -216,15 +216,22 @@ $(window).resize(function() {
 })(jQuery);
 
 
-var images=new Array('assets/img/bg/1.jpg','assets/img/bg/2.jpg');
-var nextimage=0;
-doSlideshow();
+/*==========================================
+  Backgroud slide
+=====================================================*/
 
-function doSlideshow(){
-    if(nextimage>=images.length){nextimage=0;}
-    $('.home-bg')
-    .css('background-image','url("'+images[nextimage++]+'")')
-    .fadeIn(1000,function(){
-        setTimeout(doSlideshow,5000);
+var bgArr = ['assets/img/bg/1.jpg','assets/img/bg/2.jpg'];
+var i = 0;
+setInterval(function () {
+
+$(".home-bg").stop().animate({
+      
+    }, 2000, function () {
+        $(this).css({
+            'background-image': "url('" + bgArr[i] + "')"
+        }).animate({
+           
+        });
+        (i < bgArr.length - 1) ? i++ : i = 0
     });
-}
+}, 5000);

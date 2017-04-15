@@ -165,13 +165,13 @@
                                 -->
                                <div class="owl-carousel rotate-text protext">                                    
                                     <div class="item">
-                                        <h3>Professional <strong>Photography</strong></h3>
+                                        <h3>Professional <strong>web designer</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>graphic <strong>designing</strong></h3>
+                                        <h3>Professional <strong>developer</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>Arial <strong>videography</strong></h3>
+                                        <h3>Professional <strong>programer</strong></h3>
                                     </div>   
                                 </div>
                                 <!-- end: OWL-CAROUSERL  -->
@@ -191,7 +191,7 @@
                       
                                 
                                 <header>
-                                    <h3>About Us<small>About_us</small></h3>
+                                    <h3>About Us<small>About</small></h3>
                                     <h5 style="color:white;">We are creaters</h5>
                                 </header>
 
@@ -326,7 +326,7 @@
 
                                     <div class="achivement-box col-sm-3 bg-gray-light anim-shadow">                                   
                                         <i class="pe-7s-like2"></i>
-                                        <h5 class="name">events taken</h5>
+                                        <h5 class="name">solved tickets</h5>
                                         <span class="count">599</span>
                                     </div><!-- .achivement-box -->
                                 </div>
@@ -345,13 +345,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="John Nikhil" style="border: 1px solid white; width: 60px; height: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px; height: 60px;">
                                                 </span>
-                                                <span>John Nikhil</span>
-
+                                                <span>Johnson Tellis</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box  " style="background-color: #666666">
+                                        <div class="tl-box bg-white anim-shadow">
                                             <h6 class="title">FRONT-END DEVELOPER</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -361,12 +360,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Sujay Shetty" style="border: 1px solid white; width: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Sujay Shetty</span>
+                                                <span>Johnson Tellis</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box  " style="background-color: #666666">
+                                        <div class="tl-box bg-white anim-shadow">
                                             <h6 class="title">COMPUTER UNIVERSITY</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -376,12 +375,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Suraj sheetigar" style="border: 1px solid white; width: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Suraj</span>
+                                                <span>Johnson Tellis</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white " style="background-color: #666666">
+                                        <div class="tl-box bg-white anim-shadow">
                                             <h6 class="title">COMPUTER SCHOLL</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -415,23 +414,22 @@
                         <!-- fatures -->
                         <div class="row fatures ft-padding30 text-center">
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow"> 
-
                                 <img src="assets/img/services/photography.png" style="height: 60px;" />
                                 <h5>Photography</h5>
                                 <p></p>
-                                <a href="#1" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('photography').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Aerial.png" style="height: 60px;" />
                                 <h5>Aerial Videography</h5>
                                 <p></p>
-                                <a href="#2" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('aerial').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Cinematography.png" style="height: 60px;" />
                                 <h5>Cinematography</h5>
                                 <p></p>
-                                <a href="#3" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('cinematography').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                         </div>
 
@@ -440,19 +438,19 @@
                                 <img src="assets/img/services/youtube-play-button.png" style="height: 60px;" />
                                 <h5>Animation</h5>
                                 <p></p>
-                                <a href="#4" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('animation').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Website.png" style="height: 60px;" />
                                 <h5>Websites</h5>
                                 <p></p>
-                                <a href="#5" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('website').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Branding.png" style="height: 60px;" />
                                 <h5>Branding</h5>
                                 <p> </p>
-                                <a href="#6" class="anim-link">read more</a>
+                                <a href="#services" onclick="getElementById('branding').scrollIntoView();" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                         </div>
                         <!-- end: fatures -->
@@ -530,8 +528,8 @@
                         <div class="space30"></div> 
 
 
-                        <div class="row v-align-md" id="1">
-                            <div class="col-sm-6 col-box bg-gray-light">
+                        <div class="row v-align-md">
+                            <div id="photography" class="col-sm-6 col-box bg-gray-light">
                          
                                 
                                    <h4 >PHOTOGRAPHY</h4>
@@ -545,11 +543,11 @@
                             </div><!-- .col -->
                         </div><!-- .row -->
 
-                          <div class="row v-align-md" id="2">
+                          <div class="row v-align-md">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->
-                             <div class="col-sm-6 col-box bg-gray-light">
+                             <div id="aerial" class="col-sm-6 col-box bg-gray-light">
                                 
                                 <h4>AERIAL VIDEOGRAPHY</h4>
                                 <p class="text-justify">
@@ -559,8 +557,8 @@
                             </div>
                           </div>
 
-                           <div class="row v-align-md" id="3">
-                            <div class="col-sm-6 col-box bg-gray-light">
+                           <div class="row v-align-md">
+                            <div id="cinematography" class="col-sm-6 col-box bg-gray-light">
                             
                                  <h4>CINEMATOGRAPHY</h4>
                                  <p class=" text-justify">
@@ -573,11 +571,11 @@
                             </div><!-- .col -->
                         </div><!-- .row -->
 
-                        <div class="row v-align-md" id="4">
+                        <div class="row v-align-md">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->
-                             <div class="col-sm-6 col-box bg-gray-light">
+                             <div id="animation" class="col-sm-6 col-box bg-gray-light">
                                 
                                 <h4>ANIMATION</h4>
                                 <p class="text-justify">
@@ -588,8 +586,8 @@
                           </div>
 
 
-                           <div class="row v-align-md" id="6">
-                            <div class="col-sm-6 col-box bg-gray-light">
+                           <div class="row v-align-md">
+                            <div id="branding" class="col-sm-6 col-box bg-gray-light">
                                 
                                 <h4>BRANDING</h4>
                                 <p class=" text-justify">
@@ -603,11 +601,11 @@
                         </div><!-- .row -->
 
 
-                          <div class="row v-align-md" id="5">
+                          <div class="row v-align-md">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->
-                             <div class="col-sm-6 col-box bg-gray-light">
+                             <div id="website" class="col-sm-6 col-box bg-gray-light">
                                 
                                 <h4>WEBSITE</h4>
                                    <p class=" text-justify"> <span class="dropcap color-default">W</span>hat you do is what you show… A website is a mirror where you express your deepest thoughts, showcase your skills and reflect your ambitions onto the eyes of your customers. Don’t let your website be another search content on the internet. We don’t build good websites that get applauded, we build great websites that attracts a mean business
@@ -939,7 +937,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0" target="_blank">
+                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0">
                                         <img src="https://img.youtube.com/vi/xbMQ-MzfNV0/0.jpg" alt="" >
                                         <div>
                                             <h5 class="name">Kudla | Breath Taking aerial view of Mangalore</h5>
@@ -950,7 +948,7 @@
                                 </figure>
 
 								<figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM" target="_blank">
+                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM">
                                         <img src="https://img.youtube.com/vi/TNktMQ3YbhM/0.jpg" alt="">
                                         <div>
                                             <h5 class="name">REVEURS - Showreel</h5>
@@ -1015,7 +1013,7 @@
                                                 </a>
                                             </div><!-- .blog-box-caption -->
                                             <div class="blog-box-footer">
-                                                <span class="autor">By reveurs</span>
+                                                <span class="autor">By John Doe</span>
                                                 <span class="separator">|</span>
                                                 <span class="date"><i class="fa fa-fw fa-clock-o"></i>26 May, 2014</span>
                                                 <span class="like pull-right"><i class="fa fa-fw fa-thumbs-o-up"></i>0</span>
