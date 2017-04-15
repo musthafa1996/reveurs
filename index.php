@@ -1223,7 +1223,7 @@
                                             <li><a href="https://www.facebook.com/ReveursAerial/" target="_blank" data-toggle="tooltip" title="Facebook" class="fa fa-facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li><a href="#" target="_blank" data-toggle="tooltip" title="Twitter" class="fa fa-twitter"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#" target="_blank" data-toggle="tooltip" title="Linkedin" class="fa fa-linkedin"><i class="fa fa-linkedin"></i></a></li> 
-                                            <li><a href="#" target="_blank" data-toggle="tooltip" title="Dribbble" class="fa fa-dribbble"><i class="fa fa-dribbble"></i></a></li>
+                                            <li><a href="#" target="_blank" data-toggle="tooltip" title="Dribbble" class="fa fa-instagram"><i class="fa fa-dribbble"></i></a></li>
                                         </ul>
                                         <!-- end: SOCIAL-ICONS -->
                                         <div class="space30"></div>
