@@ -165,13 +165,13 @@
                                 -->
                                <div class="owl-carousel rotate-text protext">                                    
                                     <div class="item">
-                                        <h3>Professional <strong>web designer</strong></h3>
+                                        <h3>Professional <strong>Photography</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>Professional <strong>developer</strong></h3>
+                                        <h3>graphic <strong>designing</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>Professional <strong>programer</strong></h3>
+                                        <h3>Arial <strong>videography</strong></h3>
                                     </div>   
                                 </div>
                                 <!-- end: OWL-CAROUSERL  -->
@@ -191,7 +191,7 @@
                       
                                 
                                 <header>
-                                    <h3>About Us<small>About</small></h3>
+                                    <h3>About Us<small>About_us</small></h3>
                                     <h5 style="color:white;">We are creaters</h5>
                                 </header>
 
@@ -345,12 +345,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px; height: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="John Nikhil" style="border: 1px solid white; width: 60px; height: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>John Nikhil</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box  " style="background-color: #666666">
                                             <h6 class="title">FRONT-END DEVELOPER</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -360,12 +360,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Sujay Shetty" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>Sujay Shetty</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box  " style="background-color: #666666">
                                             <h6 class="title">COMPUTER UNIVERSITY</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -375,12 +375,12 @@
                                         <div class="lt-date-icon">
                                             <div class="tl-date">
                                                 <span class="text-center">
-                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
+                                                	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Suraj sheetigar" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>Suraj</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box bg-white " style="background-color: #666666">
                                             <h6 class="title">COMPUTER SCHOLL</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -937,7 +937,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0">
+                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0" target="_blank">
                                         <img src="https://img.youtube.com/vi/xbMQ-MzfNV0/0.jpg" alt="" >
                                         <div>
                                             <h5 class="name">Kudla | Breath Taking aerial view of Mangalore</h5>
@@ -948,7 +948,7 @@
                                 </figure>
 
 								<figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM">
+                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM" target="_blank">
                                         <img src="https://img.youtube.com/vi/TNktMQ3YbhM/0.jpg" alt="">
                                         <div>
                                             <h5 class="name">REVEURS - Showreel</h5>
@@ -1013,7 +1013,7 @@
                                                 </a>
                                             </div><!-- .blog-box-caption -->
                                             <div class="blog-box-footer">
-                                                <span class="autor">By John Doe</span>
+                                                <span class="autor">By reveurs</span>
                                                 <span class="separator">|</span>
                                                 <span class="date"><i class="fa fa-fw fa-clock-o"></i>26 May, 2014</span>
                                                 <span class="like pull-right"><i class="fa fa-fw fa-thumbs-o-up"></i>0</span>

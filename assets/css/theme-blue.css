@@ -2701,7 +2701,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 .testimonials-bg-white .testimonials-owl-nav .owl-next:before {
   background: #ffffff;
   border-color: #f7f8fa;
-  color: #444;
+  color: white;
 }
 .testimonials.testimonials-bg-white .item p:after {
   border-top-color: #f7f8fa;
@@ -2710,12 +2710,12 @@ nav.nav-opacity ul.dl-menu li a::before {
 .testimonials-bg-gray-light .item p,
 .testimonials-bg-gray-light .testimonials-owl-nav .owl-prev:before,
 .testimonials-bg-gray-light .testimonials-owl-nav .owl-next:before {
-  background:#ccc;
+  background:#666666;
   
-  color: #444;
+  color: #ffffff;
 }
 .testimonials.testimonials-bg-gray-light .item p:after {
-  border-top-color: #ccc;
+  border-top-color: #666666;
 }
 /*  colors gray */
 .testimonials-bg-gray .item p,
@@ -2723,7 +2723,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 .testimonials-bg-gray .testimonials-owl-nav .owl-next:before {
   background: #666666;
   border-color: #666666;
-  color: #fff;
+  color: #ffffff;
 }
 .testimonials.testimonials-bg-gray .item p:after {
   border-top-color: #666666;
@@ -2863,7 +2863,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 }
 .timeline .timeline-item .tl-box {
   padding: 10px 20px 10px 20px;
-  border: 1px solid #f7f8fa;
+
   line-height: 1.4;
   display: table-cell;
   position: relative;
@@ -2877,7 +2877,7 @@ nav.nav-opacity ul.dl-menu li a::before {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-right-color: #f7f8fa;
+  border-right-color: #666666;
   border-width: 10px;
   top: 18px;
 }
