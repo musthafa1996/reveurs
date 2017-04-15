@@ -214,3 +214,17 @@ $(window).resize(function() {
 
     
 })(jQuery);
+
+
+var images=new Array('assets/img/bg/1.jpg','assets/img/bg/2.jpg');
+var nextimage=0;
+doSlideshow();
+
+function doSlideshow(){
+    if(nextimage>=images.length){nextimage=0;}
+    $('.home-bg')
+    .css('background-image','url("'+images[nextimage++]+'")')
+    .fadeIn(1000,function(){
+        setTimeout(doSlideshow,5000);
+    });
+}
