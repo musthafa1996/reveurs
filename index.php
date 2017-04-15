@@ -326,7 +326,7 @@
 
                                     <div class="achivement-box col-sm-3 bg-gray-light anim-shadow">                                   
                                         <i class="pe-7s-like2"></i>
-                                        <h5 class="name">solved tickets</h5>
+                                        <h5 class="name">events taken</h5>
                                         <span class="count">599</span>
                                     </div><!-- .achivement-box -->
                                 </div>
@@ -348,6 +348,7 @@
                                                 	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="John Nikhil" style="border: 1px solid white; width: 60px; height: 60px;">
                                                 </span>
                                                 <span>John Nikhil</span>
+
                                             </div>
                                         </div><!-- .lt-date-ico -->
                                         <div class="tl-box  " style="background-color: #666666">
@@ -414,22 +415,23 @@
                         <!-- fatures -->
                         <div class="row fatures ft-padding30 text-center">
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow"> 
+
                                 <img src="assets/img/services/photography.png" style="height: 60px;" />
                                 <h5>Photography</h5>
                                 <p></p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#1" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Aerial.png" style="height: 60px;" />
                                 <h5>Aerial Videography</h5>
                                 <p></p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#2" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Cinematography.png" style="height: 60px;" />
                                 <h5>Cinematography</h5>
                                 <p></p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#3" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                         </div>
 
@@ -438,19 +440,19 @@
                                 <img src="assets/img/services/youtube-play-button.png" style="height: 60px;" />
                                 <h5>Animation</h5>
                                 <p></p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#4" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Website.png" style="height: 60px;" />
                                 <h5>Websites</h5>
                                 <p></p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#5" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                             <div class="col-sm-4 ft-item col-box bg-black anim-shadow">
                                 <img src="assets/img/services/Branding.png" style="height: 60px;" />
                                 <h5>Branding</h5>
                                 <p> </p>
-                                <a href="#" class="anim-link">read more</a>
+                                <a href="#6" class="anim-link">read more</a>
                             </div><!-- .ft-item -->
                         </div>
                         <!-- end: fatures -->
@@ -528,7 +530,7 @@
                         <div class="space30"></div> 
 
 
-                        <div class="row v-align-md">
+                        <div class="row v-align-md" id="1">
                             <div class="col-sm-6 col-box bg-gray-light">
                          
                                 
@@ -543,7 +545,7 @@
                             </div><!-- .col -->
                         </div><!-- .row -->
 
-                          <div class="row v-align-md">
+                          <div class="row v-align-md" id="2">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->
@@ -557,7 +559,7 @@
                             </div>
                           </div>
 
-                           <div class="row v-align-md">
+                           <div class="row v-align-md" id="3">
                             <div class="col-sm-6 col-box bg-gray-light">
                             
                                  <h4>CINEMATOGRAPHY</h4>
@@ -571,7 +573,7 @@
                             </div><!-- .col -->
                         </div><!-- .row -->
 
-                        <div class="row v-align-md">
+                        <div class="row v-align-md" id="4">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->
@@ -586,7 +588,7 @@
                           </div>
 
 
-                           <div class="row v-align-md">
+                           <div class="row v-align-md" id="6">
                             <div class="col-sm-6 col-box bg-gray-light">
                                 
                                 <h4>BRANDING</h4>
@@ -601,7 +603,7 @@
                         </div><!-- .row -->
 
 
-                          <div class="row v-align-md">
+                          <div class="row v-align-md" id="5">
                             <div class="col-sm-6 no-padding">
                                 <img src="assets/img/services02.jpg" class="img-responsive" alt="Image">
                             </div><!--col-->

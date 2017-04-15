@@ -146,6 +146,8 @@ h5 {
 h6 {
   font-size: 16px;
   letter-spacing: 1.5px;
+
+  
 }
 @media (max-width: 767px) {
   h1 {
@@ -2886,7 +2888,7 @@ nav.nav-opacity ul.dl-menu li a::before {
   text-transform: uppercase;
 }
 .timeline .timeline-item .tl-box p {
-  color: #333;
+  color: #ffffff;
 }
 /* =================================================================== */
 /*  SKILLS
