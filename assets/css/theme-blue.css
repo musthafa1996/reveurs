@@ -2779,9 +2779,9 @@ nav.nav-opacity ul.dl-menu li a::before {
   font-family: 'Oswald', Helvetica, Arial, serif;
 }
 @media (min-width: 768px) {
-  .timeline .timeline-item .tl-date {
-    text-align: center;
+  .timeline .timeline-item .tl-date { 
     position: relative;
+    text-align: center;
     left: auto;
     top: auto;
     width: 160px;
