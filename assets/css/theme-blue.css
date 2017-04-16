@@ -2780,6 +2780,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 }
 @media (min-width: 768px) {
   .timeline .timeline-item .tl-date {
+    text-align: center;
     position: relative;
     left: auto;
     top: auto;
