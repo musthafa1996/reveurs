@@ -803,14 +803,15 @@ nav .dl-menuwrapper ul.dl-menu li a {
 }
 @media (min-width: 992px) {
   nav .dl-menuwrapper ul.dl-menu li a {
-  	color: #fff;
+  	color: rgba(255, 255, 255, 1);
     float: right;
     text-align: right;
     padding: 6px 5px;
     padding-right: 40px;
+    transition: all 0.8s linear;
   }
   nav .dl-menuwrapper ul.dl-menu li a:hover {
-    opacity: 0.5;
+    color: rgba(255, 255, 255, 0.2);
   }
   nav .dl-menuwrapper ul.dl-menu li a::before {
     content: attr(data-hover);
