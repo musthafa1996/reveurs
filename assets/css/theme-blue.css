@@ -2781,7 +2781,7 @@ nav.nav-opacity ul.dl-menu li a::before {
 @media (min-width: 768px) {
   .timeline .timeline-item .tl-date { 
     position: relative;
-    text-align: center;
+    text-align: center !important;
     left: auto;
     top: auto;
     width: 160px;
