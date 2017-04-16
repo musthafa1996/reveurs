@@ -624,75 +624,35 @@
                         <div class="space40"></div>
 
                         <div class="row v-align-md">
-                            <div class="col-md-4 col-sm-6 no-padding">
-
-                                <div class="fatures text-right">
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-right">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text text-right">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  -->
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-right">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  --> 
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-right">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  --> 
-                                </div><!-- .fatures -->
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
 
                             </div><!-- .col -->
 
-                            <div class="col-md-4 hidden-sm hidden-xs">
-                                 <img src="assets/img/services04.png" class="img-responsive center-block" alt=""> 
-                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
 
-                            <div class="col-md-4 col-sm-6 no-padding">
+                            </div><!-- .col -->
 
-                                <div class="fatures">
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-left">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  -->
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-left">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  --> 
-                                    <div class="ft-item"> 
-                                        <div class="ft-icon pull-left">
-                                            <i class="pe-7s-light pe-2x color-default"></i>
-                                        </div>
-                                        <div class="ft-text">
-                                            <h6>Creative Ideas</h6>
-                                            <p>Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                                        </div>
-                                    </div><!-- .ft-item  -->
-                                </div><!-- .fatures -->
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
+
+                            </div><!-- .col -->
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
+
+                            </div><!-- .col -->
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
+
+                            </div><!-- .col -->
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
+
+                            </div><!-- .col -->
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
+
+                            </div><!-- .col -->
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
 
                             </div><!-- .col -->
                         </div><!-- .row -->
