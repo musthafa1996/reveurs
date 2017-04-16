@@ -809,6 +809,9 @@ nav .dl-menuwrapper ul.dl-menu li a {
     padding: 6px 5px;
     padding-right: 40px;
   }
+  nav .dl-menuwrapper ul.dl-menu li a:hover {
+    opacity: 0.5;
+  }
   nav .dl-menuwrapper ul.dl-menu li a::before {
     content: attr(data-hover);
     position: absolute;
@@ -816,6 +819,7 @@ nav .dl-menuwrapper ul.dl-menu li a {
     overflow: hidden;
     max-width: 0;
     margin-left: -5px;
+    margin-top: 1px;
     padding-left: 5px;
     background: transparent;
     color: #0088cc;
