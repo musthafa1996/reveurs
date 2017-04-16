@@ -725,7 +725,7 @@
                                     <i class="fa fa-fw fa-filter"></i> Filter
                                 </button>
                                 <div class="collapse" id="collapseFiltr">
-                                    <button class="filter btn btn-sm btn-link active" data-group="all">All</button>
+                                    <button class="filter btn btn-sm btn-link active allbtn" data-group="all">All</button>
                                     <button class="filter btn btn-sm btn-link" data-group="identity">Identity</button>
                                     <button class="filter btn btn-sm btn-link" data-group="photography">Photography</button>
                                     <button class="filter btn btn-sm btn-link" data-group="videography">Videography</button>

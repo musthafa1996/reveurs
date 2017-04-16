@@ -58,6 +58,16 @@ function shuffle_init(elem) {
         
 
     }
+
+    $('.page-link').click(function(e) {
+      console.log('hello');
+        
+        e.preventDefault();
+
+        $('.portfolio-filter-nav .filter').removeClass('active');
+        $('allbtn').addClass('active');
+        $portfolio_grid.shuffle('shuffle', $('allbtn').attr('data-group') );
+    });
       
     
 }
