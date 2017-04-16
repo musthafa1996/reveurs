@@ -346,10 +346,10 @@
                                                 <span class="text-center">
                                                 	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px; height: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>John Nikhil</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box " style="background-color: #666666">
                                             <h6 class="title">FRONT-END DEVELOPER</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -361,10 +361,10 @@
                                                 <span class="text-center">
                                                 	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>Sujay</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box " style="background-color: #666666">
                                             <h6 class="title">COMPUTER UNIVERSITY</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
@@ -376,10 +376,10 @@
                                                 <span class="text-center">
                                                 	<img class="img-circle" src="assets/img/testimonial/johnson1.jpg" alt="Johnson Tellis" style="border: 1px solid white; width: 60px;">
                                                 </span>
-                                                <span>Johnson Tellis</span>
+                                                <span>suraj</span>
                                             </div>
                                         </div><!-- .lt-date-ico -->
-                                        <div class="tl-box bg-white anim-shadow">
+                                        <div class="tl-box " style="background-color: #666666">
                                             <h6 class="title">COMPUTER SCHOLL</h6>
                                             <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>      
                                         </div><!-- .tl-box -->
