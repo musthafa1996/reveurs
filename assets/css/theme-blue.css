@@ -820,7 +820,7 @@ nav .dl-menuwrapper ul.dl-menu li a {
     overflow: hidden;
     max-width: 0;
     margin-left: -5px;
-    margin-top: 1px;
+    margin-top: 0px;
     padding-left: 5px;
     background: transparent;
     color: #0088cc;
