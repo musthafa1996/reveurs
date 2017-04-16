@@ -122,7 +122,7 @@
                     <li><a href="#" target="_blank" class="fa fa-facebook"><i class="fa fa-facebook color-default"></i></a></li>
                     <li><a href="#" target="_blank" class="fa fa-twitter"><i class="fa fa-twitter color-default"></i></a></li>
                     <li><a href="#" target="_blank" class="fa fa-linkedin"><i class="fa fa-linkedin color-default"></i></a></li> 
-                    <li><a href="#" target="_blank" class="fa fa-dribbble"><i class="fa fa-dribbble color-default"></i></a></li>
+                    <li><a href="#" target="_blank" class="fa fa-instagram"><i class="fa fa-instagram color-default"></i></a></li>
                 </ul>   
                 <div class="copyright">&copy; 2017 <a href="index.php">Reveurs</a>.</div>
             </footer>       
