@@ -623,7 +623,7 @@
 
                         <div class="space40"></div>
 
-                        <div class="row v-align-md">
+                        <div class="row">
                             <div class="col-lg-3 col-md-4 col-sm-6 no-padding">
 
                             </div><!-- .col -->
