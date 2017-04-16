@@ -29,8 +29,7 @@
         <!-- PRELOADER -->
         <div class="preloader">
             <div class="spinner">
-                <div class="dot1"></div>
-                <div class="dot2"></div>
+                <img src="assets/img/logo-black.png" alt="reveurs" />
             </div>
         </div>    
         <!-- end: PRELOADER  --> 
@@ -41,7 +40,7 @@
             <!-- Logo -->
             <div class="logo-box">
                 <a href="index.php" class="logo logo-img">
-                    <img src="assets/img/logo-black.png" class="img-responsive" alt="euforia">
+                    <img src="assets/img/logo-black.png" class="img-responsive" alt="reveurs">
                 </a>
             </div>
             <!-- Menu button mobile -->
