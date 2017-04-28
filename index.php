@@ -164,13 +164,13 @@
                                 -->
                                <div class="owl-carousel rotate-text protext">                                    
                                     <div class="item">
-                                        <h3>Professional <strong>web designer</strong></h3>
+                                        <h3>Professional <strong>photopgraphy</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>Professional <strong>developer</strong></h3>
+                                        <h3>Professional <strong>branding</strong></h3>
                                     </div>
                                     <div class="item">
-                                        <h3>Professional <strong>programer</strong></h3>
+                                        <h3>aerial <strong>videogarphy</strong></h3>
                                     </div>   
                                 </div>
                                 <!-- end: OWL-CAROUSERL  -->
@@ -896,7 +896,7 @@
                                 </figure>
 
                                 <figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0">
+                                    <a class="" href="https://www.youtube.com/watch?v=xbMQ-MzfNV0" target="_blank">
                                         <img src="https://img.youtube.com/vi/xbMQ-MzfNV0/0.jpg" alt="" >
                                         <div>
                                             <h5 class="name">Kudla | Breath Taking aerial view of Mangalore</h5>
@@ -907,7 +907,7 @@
                                 </figure>
 
 								<figure class="item" data-groups='["all", "videography"]'>
-                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM">
+                                    <a class="" href="https://www.youtube.com/watch?v=TNktMQ3YbhM" target="_blank">
                                         <img src="https://img.youtube.com/vi/TNktMQ3YbhM/0.jpg" alt="">
                                         <div>
                                             <h5 class="name">REVEURS - Showreel</h5>
